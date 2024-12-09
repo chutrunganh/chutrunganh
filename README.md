@@ -22,12 +22,7 @@
 <br>
 
 
-<div style="display: inline-block; vertical-align: middle;">
-  <img src="images/Skill.gif" alt="Skill" width="50" height="50">
-</div>
-<div style="display: inline-block; vertical-align: middle;">
-  <h1 style="display: inline;">Skills</h1>
-</div>
+# <span style="color: #FFA500;">&lt;/&gt;</span> Skills
 
 - **Languages:**
 
@@ -67,22 +62,15 @@
 
 <br>
 
-<div style="display: inline-block; vertical-align: middle;">
-  <img src="images/paper-plane.png" alt="ReachMe" width="50" height="50">
-</div>
-<div style="display: inline-block; vertical-align: middle;">
-  <h1 style="display: inline;">How to reach me</h1>
-</div>
+# 📬 How to reach me
 
-<a href="mailto:chutrunganh04@gmail.com" style="display: inline-block; margin-right: 20px;">
+<a href="mailto:chutrunganh04@gmail.com">
   <img height="45" align="left" alt="Gmail" src="images/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/chu-trung-anh" style="display: inline-block; margin-right: 20px;">
+<a href="https://www.linkedin.com/in/chu-trung-anh" >
   <img height="50" align="left" alt="LinkedIn" src="images/LinkedIn.gif" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100045548761533" style="display: inline-block; margin-right: 20px;">
+<a href="https://www.facebook.com/profile.php?id=100045548761533">
   <img height="50" align="left" alt="Facebook" src="images/Facebook.gif" />
 </a>
-
-
 
