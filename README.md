@@ -22,7 +22,7 @@
 <br>
 
 
-# <span style="color: #FFA500;">&lt;/&gt;</span> Skills
+# ⚙️ Skills
 
 - **Languages:**
 
@@ -64,13 +64,15 @@
 
 # 📬 How to reach me
 
-<a href="mailto:chutrunganh04@gmail.com">
-  <img height="45" align="left" alt="Gmail" src="images/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/chu-trung-anh" >
-  <img height="50" align="left" alt="LinkedIn" src="images/LinkedIn.gif" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100045548761533">
-  <img height="50" align="left" alt="Facebook" src="images/Facebook.gif" />
-</a>
+<p>
+  <a href="mailto:chutrunganh04@gmail.com">
+    <img height="45" alt="Gmail" src="images/gmail.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/chu-trung-anh">
+    <img height="50" alt="LinkedIn" src="images/LinkedIn.gif" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100045548761533">
+    <img height="50" alt="Facebook" src="images/Facebook.gif" />
+  </a>
+</p>
 
