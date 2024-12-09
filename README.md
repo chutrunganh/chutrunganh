@@ -21,50 +21,58 @@
 
 <br>
 
-# <img src="images/Skill.gif" alt="Skill"  width="50"  height="50" vertical-align: middle;"> Skills
+
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="images/Skill.gif" alt="Skill" width="50" height="50">
+</div>
+<div style="display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline;">Skills</h1>
+</div>
 
 - **Languages:**
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;"><img src="images/Python-Dark.svg" alt="Python" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/Java-Dark.svg" alt="Java" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/C.svg" alt="C" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/CPP.svg" alt="C++" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50"></td>
-  </tr>
-  <tr>
-    <td style="border: none;"><img src="images/HTML.svg" alt="HTML" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/CSS.svg" alt="CSS" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50"></td>
-    <td style="border: none;"><img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/Python-Dark.svg" alt="Python" width="50" height="50">
+  <img src="images/Java-Dark.svg" alt="Java" width="50" height="50">
+  <img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">
+  <img src="images/C.svg" alt="C" width="50" height="50">
+  <img src="images/CPP.svg" alt="C++" width="50" height="50">
+  <img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50">
+</p>
+<p>
+  <img src="images/HTML.svg" alt="HTML" width="50" height="50">
+  <img src="images/CSS.svg" alt="CSS" width="50" height="50">
+  <img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50">
+  <img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50">
+  <img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50">
+</p>
+
 - **AI:**
 
-<table>
-  <tr>
-    <td><img src="images/OpenCV-Dark.svg" alt="Open-CV"  width="50"  height="50"></td>
-    <td><img src="images/ScikitLearn-Dark.svg" alt="Scikit-learn"  width="50"  height="50"></td>
-    <td><img src="images/TensorFlow-Dark.svg" alt="Tensorflow"  width="50"  height="50"></td>
-    <td><img src="images/PyTorch-Dark.svg" alt="PyTorch" width="50"  height="50"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/OpenCV-Dark.svg" alt="Open-CV" width="50" height="50">
+  <img src="images/ScikitLearn-Dark.svg" alt="Scikit-learn" width="50" height="50">
+  <img src="images/TensorFlow-Dark.svg" alt="Tensorflow" width="50" height="50">
+  <img src="images/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50">
+</p>
 
 - **Mobile:**
 
-<table>
-  <tr>
-    <td><img src="images/AndroidStudio-Dark.svg" alt="Android Studio"  width="50"  height="50"></td>
-    <td><img src="images/Gradle-Dark.svg" alt="Gradle"  width="50"  height="50"></td>
-    <td><img src="images/SQLite.svg" alt="SQLite"  width="50"  height="50"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/AndroidStudio-Dark.svg" alt="Android Studio" width="50" height="50">
+  <img src="images/Gradle-Dark.svg" alt="Gradle" width="50" height="50">
+  <img src="images/SQLite.svg" alt="SQLite" width="50" height="50">
+</p>
+
+
 <br>
 
-# <img src="images/paper-plane.png" alt="ReachMe" width="50" height="50" style="vertical-align: middle;" >  How to reach me
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="images/paper-plane.png" alt="ReachMe" width="50" height="50">
+</div>
+<div style="display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline;">How to reach me</h1>
+</div>
 
 <a href="mailto:chutrunganh04@gmail.com" style="display: inline-block; margin-right: 20px;">
   <img height="45" align="left" alt="Gmail" src="images/gmail.png" />
