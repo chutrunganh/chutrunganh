@@ -22,7 +22,7 @@
 <br>
 
 
-# ⚙️ Skills
+# <img src="images/Skill.gif" width="50"> Skills
 
 - **Languages:**
 
@@ -62,6 +62,10 @@
 
 <br>
 
+# 🚀 Projects
+
+
+
 # 📬 How to reach me
 
 <p>
@@ -75,4 +79,3 @@
     <img height="50" alt="Facebook" src="images/Facebook.gif" />
   </a>
 </p>
-
