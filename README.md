@@ -21,55 +21,47 @@
 
 <br>
 
-# <img src="images/Skill.gif" alt="Skill" width="50" height="50" style="vertical-align: middle;" > Skills
-
-
+# <img src="images/Skill.gif" alt="Skill"  width="50"  height="50" vertical-align: middle;"> Skills
 
 - **Languages:**
 
-<img src="images/Python-Dark.svg" alt="Python" width="50" height="50">
-<img src="images/Java-Dark.svg" alt="Java" width="50" height="50">
-<img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">
-<img src="images/C.svg" alt="C" width="50" height="50">
-<img src="images/CPP.svg" alt="C++" width="50" height="50">
-<img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50">
-<img src="images/HTML.svg" alt="HTML" width="50" height="50">
-<img src="images/CSS.svg" alt="CSS" width="50" height="50">
-<img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50">
-<img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50">
-<img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50">
-
-
-
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><img src="images/Python-Dark.svg" alt="Python" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/Java-Dark.svg" alt="Java" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/C.svg" alt="C" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/CPP.svg" alt="C++" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50"></td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="images/HTML.svg" alt="HTML" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/CSS.svg" alt="CSS" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50"></td>
+    <td style="border: none;"><img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50"></td>
+  </tr>
+</table>
 - **AI:**
 
-<img src="images/OpenCV-Dark.svg" alt="Open-CV" width="50" height="50">
-<img src="images/ScikitLearn-Dark.svg" alt="Scikit-learn" width="50" height="50">
-<img src="images/TensorFlow-Dark.svg" alt="Tensorflow" width="50" height="50">
-<img src="images/PyTorch-Dark.svg" alt="PyTouch" width="50" height="50">
-
-
+<table>
+  <tr>
+    <td><img src="images/OpenCV-Dark.svg" alt="Open-CV"  width="50"  height="50"></td>
+    <td><img src="images/ScikitLearn-Dark.svg" alt="Scikit-learn"  width="50"  height="50"></td>
+    <td><img src="images/TensorFlow-Dark.svg" alt="Tensorflow"  width="50"  height="50"></td>
+    <td><img src="images/PyTorch-Dark.svg" alt="PyTorch" width="50"  height="50"></td>
+  </tr>
+</table>
 
 - **Mobile:**
 
-<img src="images/AndroidStudio-Dark.svg" alt="Android Studio" width="50" height="50">
-<img src="images/Gradle-Dark.svg" alt="Gradle" width="50" height="50">
-<img src="images/SQLite.svg" alt="SQLite" width="50" height="50">
-
-
-- **Tools:**
-
-<img src="images/Arch-Dark.svg" alt="Arch" width="50" height="50">
-<img src="images/Ubuntu-Dark.svg" alt="Ubuntu" width="50" height="50">
-<img src="images/Windows-Dark.svg" alt="Windows" width="50" height="50">
-<img src="images/Git.svg" alt="Git" width="50" height="50">
-<img src="images/Docker.svg" alt="Docker" width="50" height="50">
-<img src="images/VSCode-Dark.svg" alt="VSCode" width="50" height="50">
-<img src="images/Idea-Dark.svg" alt="Idea" width="50" height="50">
-<img src="images/Maven-Dark.svg" alt="Maven" width="50" height="50">
-<img src="images/MySQL-Dark.svg" alt="MySQL" width="50" height="50">
-
-
+<table>
+  <tr>
+    <td><img src="images/AndroidStudio-Dark.svg" alt="Android Studio"  width="50"  height="50"></td>
+    <td><img src="images/Gradle-Dark.svg" alt="Gradle"  width="50"  height="50"></td>
+    <td><img src="images/SQLite.svg" alt="SQLite"  width="50"  height="50"></td>
+  </tr>
+</table>
 <br>
 
 # <img src="images/paper-plane.png" alt="ReachMe" width="50" height="50" style="vertical-align: middle;" >  How to reach me
