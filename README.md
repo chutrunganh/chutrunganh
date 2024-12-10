@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=53B4FF&width=435&lines=Hi%2C+welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+
 # <img src="images/AboutMe.gif" alt="About me" width="60" > About me
 
-<img align="right" alt="TypingGif" src="images/Typing.gif" width="140" hspace="30" />
+<img align="right" alt="TypingGif" src="images/Typing.gif" width="130" hspace="40" />
 <div>
 
 🎓 **Undergraduate student at [Hanoi University of Science and Technology](https://soict.hust.edu.vn/), majoring in Cyber Security**
@@ -18,9 +19,7 @@ systems and data from cyber threats.
 
 </div>
 
-
 <br>
-
 
 # <img src="images/Skill.gif" width="20"> Skills
 
@@ -73,6 +72,7 @@ systems and data from cyber threats.
   <img src="images/VirtualBox.png" alt="VirtualBox" width="50" height="50">
   <img src="images/KVM.png" alt="VirtualBox" width="50" height="50">
 </div>
+
 <br>
 
 # 🚀 Projects
@@ -90,9 +90,7 @@ of the progress I've made.
 - IT2022E Applied Statistic and Experimental Design: [Stock price prediction using timeseri](https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git)
 - IT3052E Optimization: [Bin packing problem](https://github.com/chutrunganh/Optimization-Project-IT3052E.git), [Simplex method](https://github.com/chutrunganh/Simplex-Method.git)
 
-
-
-
+<br>
 
 # 📬 How to reach me
 
