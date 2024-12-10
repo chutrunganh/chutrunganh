@@ -4,62 +4,77 @@
 
 ---------------------
 
-<img align="right" alt="TypingGif" src="images/Typing.gif" width="130" />
-<p><em>
-1
+# <img src="images/AboutMe.gif" alt="About me" width="50" > About me
 
-2
+<img align="right" alt="TypingGif" src="images/Typing.gif" width="130" hspace="30" />
+<div>
 
-3
+🎓 **Undergraduate student at [Hanoi University of Science and Technology](https://soict.hust.edu.vn/), majoring in Cyber Security**
 
-4
+🎯 **Career Goal:** Aspiring Cyber Security Engineer with a passion for protecting 
+systems and data from cyber threats.
 
-5
+🌟 **Interests:** Cyber Security, Artificial Intelligence, Finance
 
-</em></p>
+🎭 **Hobbies:** 🎮, 🏋️, 🚴‍♂️
+
+</div>
 
 
 <br>
 
 
-# <img src="images/Skill.gif" width="50"> Skills
+# <img src="images/Skill.gif" width="20"> Skills
 
 - **Languages:**
 
-<p>
+<div>
   <img src="images/Python-Dark.svg" alt="Python" width="50" height="50">
   <img src="images/Java-Dark.svg" alt="Java" width="50" height="50">
   <img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">
   <img src="images/C.svg" alt="C" width="50" height="50">
   <img src="images/CPP.svg" alt="C++" width="50" height="50">
   <img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50">
-</p>
-<p>
   <img src="images/HTML.svg" alt="HTML" width="50" height="50">
   <img src="images/CSS.svg" alt="CSS" width="50" height="50">
   <img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50">
   <img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50">
   <img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50">
-</p>
+</div>
 
 - **AI:**
 
-<p>
+<div>
   <img src="images/OpenCV-Dark.svg" alt="Open-CV" width="50" height="50">
   <img src="images/ScikitLearn-Dark.svg" alt="Scikit-learn" width="50" height="50">
   <img src="images/TensorFlow-Dark.svg" alt="Tensorflow" width="50" height="50">
   <img src="images/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50">
-</p>
+</div>
 
 - **Mobile:**
 
-<p>
+<div>
   <img src="images/AndroidStudio-Dark.svg" alt="Android Studio" width="50" height="50">
   <img src="images/Gradle-Dark.svg" alt="Gradle" width="50" height="50">
   <img src="images/SQLite.svg" alt="SQLite" width="50" height="50">
-</p>
+</div>
 
 
+- **Tools:**
+
+<div>
+  <img src="images/Arch-Dark.svg" alt="Arch" width="50" height="50">
+  <img src="images/Ubuntu-Dark.svg" alt="Ubuntu" width="50" height="50">
+  <img src="images/Windows-Dark.svg" alt="Windows" width="50" height="50">
+  <img src="images/Git.svg" alt="Git" width="50" height="50">
+  <img src="images/Docker.svg" alt="Docker" width="50" height="50">
+  <img src="images/VSCode-Dark.svg" alt="VSCode" width="50" height="50">
+  <img src="images/Idea-Dark.svg" alt="Idea" width="50" height="50">
+  <img src="images/Maven-Dark.svg" alt="Maven" width="50" height="50">
+  <img src="images/MySQL-Dark.svg" alt="MySQL" width="50" height="50">
+  <img src="images/VirtualBox.png" alt="VirtualBox" width="50" height="50">
+  <img src="images/KVM.png" alt="VirtualBox" width="50" height="50">
+</div>
 <br>
 
 # 🚀 Projects
@@ -68,7 +83,7 @@
 
 # 📬 How to reach me
 
-<p>
+<div>
   <a href="mailto:chutrunganh04@gmail.com">
     <img height="45" alt="Gmail" src="images/gmail.png" />
   </a>
@@ -78,4 +93,4 @@
   <a href="https://www.facebook.com/profile.php?id=100045548761533">
     <img height="50" alt="Facebook" src="images/Facebook.gif" />
   </a>
-</p>
+</div>
