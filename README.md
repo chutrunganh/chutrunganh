@@ -82,7 +82,7 @@ experienced with my teammates. These experiences have imparted valuable
 lessons and motivated me to push my boundaries. Looking back, I am proud 
 of the progress I've made.
 
-- IT4432E Biometric: In Progress
+- IT4432E Biometric: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E)
 - IT4785E Mobile Programming: In Progress
 - IT3910E Project I: [SNMP Browser](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data)
 - IT3190E Machine Learning: [Credit card fraud](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git)
