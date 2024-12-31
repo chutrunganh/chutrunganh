@@ -82,8 +82,9 @@ experienced with my teammates. These experiences have imparted valuable
 lessons and motivated me to push my boundaries. Looking back, I am proud 
 of the progress I've made.
 
-- IT4432E Biometric: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E)
-- IT4785E Mobile Programming: In Progress
+- IT4432E Biometric: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E.git)
+- IT4785E Mobile Programming: [Note taking app](https://github.com/chutrunganh/SNote-IT4785E.git)
+- IT3070E Operating System: [Dining Philosopher problem](https://github.com/chutrunganh/Dining-philosophers-problem.git)
 - IT3910E Project I: [SNMP Browser](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data)
 - IT3190E Machine Learning: [Credit card fraud](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git)
 - IT3100E Object Oriented Programming: [Virus Explorer](https://github.com/chutrunganh/OOP.20232.21.git)
