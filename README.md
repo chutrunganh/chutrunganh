@@ -29,15 +29,23 @@ systems and data from cyber threats.
   <img src="images/Python-Dark.svg" alt="Python" width="50" height="50">
   <img src="images/Java-Dark.svg" alt="Java" width="50" height="50">
   <img src="images/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">
-  <img src="images/C.svg" alt="C" width="50" height="50">
   <img src="images/CPP.svg" alt="C++" width="50" height="50">
-  <img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50">
   <img src="images/HTML.svg" alt="HTML" width="50" height="50">
   <img src="images/CSS.svg" alt="CSS" width="50" height="50">
   <img src="images/JavaScript.svg" alt="JavaScript" width="50" height="50">
-  <img src="images/LaTeX-Dark.svg" alt="Latex" width="50" height="50">
-  <img src="images/Markdown-Dark.svg" alt="MarkDown" width="50" height="50">
+  <img src="images/Bash-Dark.svg" alt="Bash" width="50" height="50">
 </div>
+
+- **Web:**
+  
+<div>
+  <img src="images/Flask-Dark.svg" alt="Flask" width="50" height="50">
+  <img src="images/NodeJS-Dark.svg" alt="NodeJS" width="50" height="50">
+  <img src="images/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50">
+  <img src="images/React-Dark.svg" alt="ReactJS" width="50" height="50">
+  <img src="images/Vite-Dark.svg" alt="Vite" width="50" height="50">
+</div>
+
 
 - **AI:**
 
@@ -56,21 +64,17 @@ systems and data from cyber threats.
   <img src="images/SQLite.svg" alt="SQLite" width="50" height="50">
 </div>
 
-
 - **Tools:**
 
 <div>
-  <img src="images/Arch-Dark.svg" alt="Arch" width="50" height="50">
+
   <img src="images/Ubuntu-Dark.svg" alt="Ubuntu" width="50" height="50">
-  <img src="images/Windows-Dark.svg" alt="Windows" width="50" height="50">
   <img src="images/Git.svg" alt="Git" width="50" height="50">
   <img src="images/Docker.svg" alt="Docker" width="50" height="50">
   <img src="images/VSCode-Dark.svg" alt="VSCode" width="50" height="50">
   <img src="images/Idea-Dark.svg" alt="Idea" width="50" height="50">
-  <img src="images/Maven-Dark.svg" alt="Maven" width="50" height="50">
-  <img src="images/MySQL-Dark.svg" alt="MySQL" width="50" height="50">
-  <img src="images/VirtualBox.png" alt="VirtualBox" width="50" height="50">
-  <img src="images/KVM.png" alt="VirtualBox" width="50" height="50">
+  <img src="images/VirtualBox.png" alt="VirtualBox" width="50" >
+  <img src="images/VMware.png" alt="VMware" width="45" >
 </div>
 
 <br>
@@ -81,6 +85,18 @@ Here are all the projects in my repository, organized in a structured way. Each 
 experienced with my teammates. These experiences have imparted valuable 
 lessons and motivated me to push my boundaries. Looking back, I am proud 
 of the progress I've made.
+
+
+
+- IT4403E Secure Web Development: [Stock Trading Platform with focus on security](https://github.com/chutrunganh/Stock-Trading-Platform.git)
+  
+- IT3180E Intro to Software Engineering: [Stock Market Simulator](https://github.com/chutrunganh/Stock-Market-Simulator.git)
+
+- IT3930E Project II: [Research and deploy Suricata IDS](https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git)
+
+- IT4527E Blockchain and Application: [Not public yet](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git)
+  
+- IT4025E Applied Cryptography: [Not public yet]()
 
 - IT4432E Biometric: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E.git)
 - IT4785E Mobile Programming: [Note taking app](https://github.com/chutrunganh/SNote-IT4785E.git)
