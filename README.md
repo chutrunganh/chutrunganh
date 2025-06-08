@@ -74,7 +74,7 @@ systems and data from cyber threats.
   <img src="images/VSCode-Dark.svg" alt="VSCode" width="50" height="50">
   <img src="images/Idea-Dark.svg" alt="Idea" width="50" height="50">
   <img src="images/VirtualBox.png" alt="VirtualBox" width="50" >
-  <img src="images/VMware.png" alt="VMware" width="45" >
+  <img src="images/VMWare.png" alt="VMware" width="45" >
 </div>
 
 <br>
@@ -88,24 +88,26 @@ of the progress I've made.
 
 
 
-- IT4403E Secure Web Development: [Stock Trading Platform with focus on security](https://github.com/chutrunganh/Stock-Trading-Platform.git)
+- **IT4403E Secure Web Development**: [Stock Trading Platform with focus on security](https://github.com/chutrunganh/Stock-Trading-Platform.git)
+
+- **IT3180E Intro to Software Engineering**: [Stock Market Simulator](https://github.com/chutrunganh/Stock-Market-Simulator.git)
+
+- **IT3930E Project II**: [Research and deploy Suricata IDS](https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git)
+
+- **IT4527E Blockchain and Application**: [Not public yet](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git)
+
+- **IT4025E Applied Cryptography**: [Not public yet]()
+
+- **IT4432E Biometric**: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E.git)
   
-- IT3180E Intro to Software Engineering: [Stock Market Simulator](https://github.com/chutrunganh/Stock-Market-Simulator.git)
-
-- IT3930E Project II: [Research and deploy Suricata IDS](https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git)
-
-- IT4527E Blockchain and Application: [Not public yet](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git)
-  
-- IT4025E Applied Cryptography: [Not public yet]()
-
-- IT4432E Biometric: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E.git)
-- IT4785E Mobile Programming: [Note taking app](https://github.com/chutrunganh/SNote-IT4785E.git)
-- IT3070E Operating System: [Dining Philosopher problem](https://github.com/chutrunganh/Dining-philosophers-problem.git)
-- IT3910E Project I: [SNMP Browser](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data)
-- IT3190E Machine Learning: [Credit card fraud](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git)
-- IT3100E Object Oriented Programming: [Virus Explorer](https://github.com/chutrunganh/OOP.20232.21.git)
-- IT2022E Applied Statistic and Experimental Design: [Stock price prediction using timeseri](https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git)
-- IT3052E Optimization: [Bin packing problem](https://github.com/chutrunganh/Optimization-Project-IT3052E.git), [Simplex method](https://github.com/chutrunganh/Simplex-Method.git)
+- **IT4785E Mobile Programming**: [Note taking app](https://github.com/chutrunganh/SNote-IT4785E.git)
+- 
+- **IT3070E Operating System**: [Dining Philosopher problem](https://github.com/chutrunganh/Dining-philosophers-problem.git)
+- **IT3910E Project I**: [SNMP Browser](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data)
+- **IT3190E Machine Learning**: [Credit card fraud](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git)
+- **IT3100E Object Oriented Programming**: [Virus Explorer](https://github.com/chutrunganh/OOP.20232.21.git)
+- **IT2022E Applied Statistic and Experimental Design**: [Stock price prediction using timeseri](https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git)
+- **IT3052E Optimization**: [Bin packing problem](https://github.com/chutrunganh/Optimization-Project-IT3052E.git), [Simplex method](https://github.com/chutrunganh/Simplex-Method.git)
 
 <br>
 
