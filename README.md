@@ -94,7 +94,7 @@ of the progress I've made.
 
 - **IT3930E Project II**: [Research and deploy Suricata IDS](https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git)
 
-- **IT4527E Blockchain and Application**: [Not public yet](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git)
+- **IT4527E Blockchain and Application**: [Lab 2, 3](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git)
 
 - **IT4025E Applied Cryptography**: [Not public yet]()
 
