@@ -43,7 +43,7 @@ systems and data from cyber threats.
   <img src="images/NodeJS-Dark.svg" alt="NodeJS" width="50" height="50">
   <img src="images/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50">
   <img src="images/React-Dark.svg" alt="ReactJS" width="50" height="50">
-  <img src="images/Vite-Dark.svg" alt="Vite" width="50" height="50">
+
 </div>
 
 
@@ -101,7 +101,7 @@ of the progress I've made.
 - **IT4432E Biometric**: [2D Face Authentication System](https://github.com/chutrunganh/Biometric_IT4432E.git)
   
 - **IT4785E Mobile Programming**: [Note taking app](https://github.com/chutrunganh/SNote-IT4785E.git)
-- 
+  
 - **IT3070E Operating System**: [Dining Philosopher problem](https://github.com/chutrunganh/Dining-philosophers-problem.git)
 - **IT3910E Project I**: [SNMP Browser](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data)
 - **IT3190E Machine Learning**: [Credit card fraud](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git)
