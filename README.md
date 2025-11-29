@@ -75,120 +75,34 @@ Here are all the projects in my repository, organized in in chronological order.
 experienced with my teammates. These experiences have imparted valuable 
 lessons and motivated me to push my boundaries. Looking back, I am proud of the progress I've made.
 
-<table>
-  <thead>
-   
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="3" valign="top"><b>2025.1</b></td>
-      <td>
-        <a href="https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E">IT4630E — Malware Analysis</a><br>
-        <i>Botnet detection using Netflow data</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="">IT4508E — Software Security</a><br>
-        <i>Updating</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="">IT4450E — Digital Forensics</a><br>
-        <i>Updating</i>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="5" valign="top"><b>2024.2</b></td>
-      <td>
-        <a href="https://github.com/chutrunganh/Stock-Trading-Platform.git">IT4403E — Secure Web Development</a><br>
-        <i>Stock Trading Platform with security-focused</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Stock-Market-Simulator.git">IT3180E — Intro to Software Engineering</a><br>
-        <i>Stock Market Simulator</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git">IT3930E — Project II</a><br>
-        <i>Research & deploy Suricata IDS</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git">IT4527E — Blockchain & Application</a><br>
-        <i>Lab 2, 3</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Applied-Cryptography-IT4025E">IT4025E — Applied Cryptography</a><br>
-        <i>Projects 1, 2, 3</i>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3" valign="top"><b>2024.1</b></td>
-      <td>
-        <a href="https://github.com/chutrunganh/Biometric_IT4432E.git">IT4432E — Biometric</a><br>
-        <i>2D Face Authentication System</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/SNote-IT4785E.git">IT4785E — Mobile Programming</a><br>
-        <i>Note taking app with sync between devices</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Dining-philosophers-problem.git">IT3070E — Operating System</a><br>
-        <i>Dining Philosopher problem (Deadlock handling)</i>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="4" valign="top"><b>2023.2</b></td>
-      <td>
-        <a href="https://github.com/chutrunganh/Project-I-Collect-SNMP-Data">IT3910E — Project I</a><br>
-        <i>SNMP Browser</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git">IT3190E — Machine Learning</a><br>
-        <i>Credit card fraud detection</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/OOP.20232.21.git">IT3100E — OOP</a><br>
-        <i>Virus Explorer</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git">IT2022E — Applied Statistics</a><br>
-        <i>Stock price prediction using time-series</i>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="2" valign="top"><b>2023.1</b></td>
-      <td>
-        <a href="https://github.com/chutrunganh/Optimization-Project-IT3052E.git">IT3052E — Optimization</a><br>
-        <i>Bin packing problem</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/chutrunganh/Simplex-Method.git">IT3052E — Optimization</a><br>
-        <i>Solving constraints using the Simplex method</i>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+### 2025.1
+> * [**IT4630E — Malware Analysis**](https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E) <br> _Botnet detection using Netflow data_
+> * [**IT4508E — Software Security**]() <br> _Updating_
+> * [**IT4450E — Digital Forensics**]() <br> _Updating_
+
+### 2024.2
+> * [**IT4403E — Secure Web Development**](https://github.com/chutrunganh/Stock-Trading-Platform.git) <br> _Stock Trading Platform with security-focused_
+> * [**IT3180E — Intro to Software Engineering**](https://github.com/chutrunganh/Stock-Market-Simulator.git) <br> _Stock Market Simulator_
+> * [**IT3930E — Project II**](https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git) <br> _Research & deploy Suricata IDS_
+> * [**IT4527E — Blockchain & Application**](https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git) <br> _Lab 2, 3_
+> * [**IT4025E — Applied Cryptography**](https://github.com/chutrunganh/Applied-Cryptography-IT4025E) <br> _Projects 1, 2, 3_
+
+### 2024.1
+> * [**IT4432E — Biometric**](https://github.com/chutrunganh/Biometric_IT4432E.git) <br> _2D Face Authentication System_
+> * [**IT4785E — Mobile Programming**](https://github.com/chutrunganh/SNote-IT4785E.git) <br> _Note taking app with sync between devices_
+> * [**IT3070E — Operating System**](https://github.com/chutrunganh/Dining-philosophers-problem.git) <br> _Dining Philosopher problem (Deadlock handling)_
+
+### 2023.2
+> * [**IT3910E — Project I**](https://github.com/chutrunganh/Project-I-Collect-SNMP-Data) <br> _SNMP Browser_
+> * [**IT3190E — Machine Learning**](https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git) <br> _Credit card fraud detection_
+> * [**IT3100E — OOP**](https://github.com/chutrunganh/OOP.20232.21.git) <br> _Virus Explorer_
+> * [**IT2022E — Applied Statistics**](https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git) <br> _Stock price prediction using time-series_
+
+### 2023.1
+> * [**IT3052E — Optimization**](https://github.com/chutrunganh/Optimization-Project-IT3052E.git) <br> _Bin packing problem_
+> * [**IT3052E — Optimization**](https://github.com/chutrunganh/Simplex-Method.git) <br> _Solving constraints using the Simplex method_
+
 
 <br>
 
