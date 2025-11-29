@@ -75,95 +75,120 @@ Here are all the projects in my repository, organized in in chronological order.
 experienced with my teammates. These experiences have imparted valuable 
 lessons and motivated me to push my boundaries. Looking back, I am proud of the progress I've made.
 
-
-<link rel="stylesheet" href="./styles.css">
-
-<div class="timeline">
-    <!-- 2025.1 -->
-  <div class="timeline-item">
-    <div class="sem">2025.1</div>
-    <div class="line-space"></div>
-    <div class="content">
-      <ul>
-        <li><a href="https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E">IT4630E — Malware Analysis</a>
-            <span class="meta">Botnet detection using Netflow data</span></li>
-        <li><a href="">IT4508E — Software Security</a>
-            <span class="meta">Updating</span></li>
-        <li><a href="">IT4450E — Digital Forensics</a>
-            <span class="meta">Updating</span></li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- 2024.2 -->
-  <div class="timeline-item">
-    <div class="sem">2024.2</div>
-    <div class="line-space"></div>
-    <div class="content">
-      <ul>
-        <li><a href="https://github.com/chutrunganh/Stock-Trading-Platform.git">IT4403E — Secure Web Development</a>
-            <span class="meta">Stock Trading Platform with security-focused</span></li>
-        <li><a href="https://github.com/chutrunganh/Stock-Market-Simulator.git">IT3180E — Intro to Software Engineering</a>
-            <span class="meta">Stock Market Simulator</span></li>
-        <li><a href="https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git">IT3930E — Project II</a>
-            <span class="meta">Research & deploy Suricata IDS</span></li>
-        <li><a href="https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git">IT4527E — Blockchain & Application</a>
-            <span class="meta">Lab 2, 3</span></li>
-        <li><a href="https://github.com/chutrunganh/Applied-Cryptography-IT4025E">IT4025E — Applied Cryptography</a>
-            <span class="meta">Projects 1, 2, 3</span></li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- 2024.1 -->
-  <div class="timeline-item">
-    <div class="sem">2024.1</div>
-    <div class="line-space"></div>
-    <div class="content">
-      <ul>
-        <li><a href="https://github.com/chutrunganh/Biometric_IT4432E.git">IT4432E — Biometric</a>
-            <span class="meta">2D Face Authentication System</span></li>
-        <li><a href="https://github.com/chutrunganh/SNote-IT4785E.git">IT4785E — Mobile Programming</a>
-            <span class="meta">Note taking app with sync between devices</span></li>
-        <li><a href="https://github.com/chutrunganh/Dining-philosophers-problem.git">IT3070E — Operating System</a>
-            <span class="meta">Dining Philosopher problem (Deadlock handling)</span></li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- 2023.2 -->
-  <div class="timeline-item">
-    <div class="sem">2023.2</div>
-    <div class="line-space"></div>
-    <div class="content">
-      <ul>
-        <li><a href="https://github.com/chutrunganh/Project-I-Collect-SNMP-Data">IT3910E — Project I</a>
-            <span class="meta">SNMP Browser</span></li>
-        <li><a href="https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git">IT3190E — Machine Learning</a>
-            <span class="meta">Credit card fraud detection</span></li>
-        <li><a href="https://github.com/chutrunganh/OOP.20232.21.git">IT3100E — OOP</a>
-            <span class="meta">Virus Explorer</span></li>
-        <li><a href="https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git">IT2022E — Applied Statistics</a>
-            <span class="meta">Stock price prediction using time-series</span></li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- 2023.1 -->
-  <div class="timeline-item">
-    <div class="sem">2023.1</div>
-    <div class="line-space"></div>
-    <div class="content">
-      <ul>
-        <li><a href="https://github.com/chutrunganh/Optimization-Project-IT3052E.git">IT3052E — Optimization</a>
-            <span class="meta">Bin packing problem</span></li>
-        <li><a href="https://github.com/chutrunganh/Simplex-Method.git">IT3052E — Optimization</a>
-            <span class="meta">Solving constraints using the Simplex method</span></li>
-      </ul>
-    </div>
-  </div>
-
-</div>
+<table>
+  <thead>
+   
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" valign="top"><b>2025.1</b></td>
+      <td>
+        <a href="https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E">IT4630E — Malware Analysis</a><br>
+        <i>Botnet detection using Netflow data</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="">IT4508E — Software Security</a><br>
+        <i>Updating</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="">IT4450E — Digital Forensics</a><br>
+        <i>Updating</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="5" valign="top"><b>2024.2</b></td>
+      <td>
+        <a href="https://github.com/chutrunganh/Stock-Trading-Platform.git">IT4403E — Secure Web Development</a><br>
+        <i>Stock Trading Platform with security-focused</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Stock-Market-Simulator.git">IT3180E — Intro to Software Engineering</a><br>
+        <i>Stock Market Simulator</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Project2-Research-and-Deploy-Suricata-IDS.git">IT3930E — Project II</a><br>
+        <i>Research & deploy Suricata IDS</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Blockchain-and-Applications-IT4527E.git">IT4527E — Blockchain & Application</a><br>
+        <i>Lab 2, 3</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Applied-Cryptography-IT4025E">IT4025E — Applied Cryptography</a><br>
+        <i>Projects 1, 2, 3</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" valign="top"><b>2024.1</b></td>
+      <td>
+        <a href="https://github.com/chutrunganh/Biometric_IT4432E.git">IT4432E — Biometric</a><br>
+        <i>2D Face Authentication System</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/SNote-IT4785E.git">IT4785E — Mobile Programming</a><br>
+        <i>Note taking app with sync between devices</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Dining-philosophers-problem.git">IT3070E — Operating System</a><br>
+        <i>Dining Philosopher problem (Deadlock handling)</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="4" valign="top"><b>2023.2</b></td>
+      <td>
+        <a href="https://github.com/chutrunganh/Project-I-Collect-SNMP-Data">IT3910E — Project I</a><br>
+        <i>SNMP Browser</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Fraud-Credit-Card-Detection-Group-17.git">IT3190E — Machine Learning</a><br>
+        <i>Credit card fraud detection</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/OOP.20232.21.git">IT3100E — OOP</a><br>
+        <i>Virus Explorer</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Stock-Price-Prediction-Using-Time-Series.git">IT2022E — Applied Statistics</a><br>
+        <i>Stock price prediction using time-series</i>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top"><b>2023.1</b></td>
+      <td>
+        <a href="https://github.com/chutrunganh/Optimization-Project-IT3052E.git">IT3052E — Optimization</a><br>
+        <i>Bin packing problem</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/chutrunganh/Simplex-Method.git">IT3052E — Optimization</a><br>
+        <i>Solving constraints using the Simplex method</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
