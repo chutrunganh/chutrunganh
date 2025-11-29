@@ -76,7 +76,7 @@ experienced with my teammates. These experiences have imparted valuable
 lessons and motivated me to push my boundaries. Looking back, I am proud of the progress I've made.
 
 
-<link rel="stylesheet" href="assets/timeline.css">
+<link rel="stylesheet" href="./styles.css">
 
 <div class="timeline">
     <!-- 2025.1 -->
