@@ -78,8 +78,7 @@ lessons and motivated me to push my boundaries. Looking back, I am proud of the 
 
 ### 2025.1
 > * [**IT4630E — Malware Analysis**](https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E) <br> _Botnet detection using Netflow data_
-> * [**IT4508E — Software Security**]() <br> _Updating_
-> * [**IT4450E — Digital Forensics**]() <br> _Updating_
+> * [**IT4508E — Software Security**](https://github.com/chutrunganh/Application-of-Automated-Tools-in-Software-Code-Auditing-IT4508E) <br> _Static and dynamic tools for security testing C software_
 
 ### 2024.2
 > * [**IT4403E — Secure Web Development**](https://github.com/chutrunganh/Stock-Trading-Platform.git) <br> _Stock Trading Platform with security-focused_
