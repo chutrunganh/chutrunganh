@@ -75,6 +75,9 @@ Here are all the projects in my repository, organized in in chronological order.
 experienced with my teammates. These experiences have imparted valuable 
 lessons and motivated me to push my boundaries. Looking back, I am proud of the progress I've made.
 
+### 2025.2
+
+> [**Graduation Thesis**](https://github.com/chutrunganh/Security-on-Siemens-S7-protocol.git) <br> _Research and Detection of Attacks on the Siemens S7Comm Protocol in ICS/OT Networks
 
 ### 2025.1
 > * [**IT4630E — Malware Analysis**](https://github.com/chutrunganh/Netflow-Based-Malware-Detection-and-Data-Visualization-System-IT4630E) <br> _Botnet detection using Netflow data_
